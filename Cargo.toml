@@ -164,3 +164,7 @@ epaint = { git = "https://github.com/emilk/egui", rev = "f0addc339cd753f724253f3
 
 # Temporary patch until next egui_tiles release
 egui_tiles = { git = "https://github.com/rerun-io/egui_tiles", rev = "f835c4df1cc260a58122a8d37c7c3738902b9643" }
+
+
+wgpu = { git = "https://github.com/fornwall/wgpu", rev = "25934854" }
+wgpu-core = { git = "https://github.com/fornwall/wgpu", rev = "25934854" }
