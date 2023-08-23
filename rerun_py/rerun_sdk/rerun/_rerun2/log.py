@@ -157,6 +157,18 @@ def log(
     if ext:
         _add_extension_components(instanced, splats, ext, None)
 
+    # add marker component
+    marker_name = f"rerun.components.{type(entity).__name__}Marker"
+
+    class MarkerComponentType(pa.ExtensionType):
+        def __init__(self):
+            pa.ExtensionType.__init__(self, pa.null(), marker_name)
+
+        def __arrow_ext_serialize__(self):
+            return b""
+
+    instanced[marker_name] = pa.nulls(archetype_length, type=MarkerComponentType()).storage
+
     if splats:
         splats["rerun.instance_key"] = _splat()
         bindings.log_arrow_msg(  # pyright: ignore[reportGeneralTypeIssues]

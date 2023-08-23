@@ -11,7 +11,8 @@ import argparse
 import os
 import re
 import sys
-from typing import Any, Iterator
+from collections.abc import Iterator
+from typing import Any
 
 from gitignore_parser import parse_gitignore
 

@@ -26,11 +26,12 @@ import os.path
 import shutil
 import subprocess
 import sys
+from collections.abc import Generator
 from enum import Enum
 from glob import glob
 from pathlib import Path
 from time import sleep, time
-from typing import Any, Generator
+from typing import Any
 
 import requests
 import tomlkit

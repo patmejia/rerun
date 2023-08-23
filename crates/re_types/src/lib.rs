@@ -287,6 +287,13 @@ pub trait Archetype {
     /// All components including required, recommended, and optional.
     fn all_components() -> &'static [ComponentName];
 
+    /// Returns the name of the associated marker component, whose presence indicates that the
+    /// high-level archetype-based APIs where used to log the data.
+    fn marker_component() -> ComponentName;
+
+    // TODO
+    fn num_instances(&self) -> usize;
+
     // ---
 
     /// Serializes all non-null [`Component`]s of this [`Archetype`] into Arrow arrays.

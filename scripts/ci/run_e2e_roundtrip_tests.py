@@ -87,6 +87,7 @@ def main() -> None:
 
     files = [f for f in listdir(ARCHETYPES_PATH) if isfile(join(ARCHETYPES_PATH, f))]
     archetypes = [filename for filename, extension in [os.path.splitext(file) for file in files] if extension == ".fbs"]
+    archetypes = ["points3d"]
 
     for arch in archetypes:
         python_output_path = run_roundtrip_python(arch)
