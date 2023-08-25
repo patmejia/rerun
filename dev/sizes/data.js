@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1692976373494,
+  "lastUpdate": 1692978974575,
   "repoUrl": "https://github.com/rerun-io/rerun",
   "entries": {
     "Sizes": [
@@ -930,6 +930,75 @@ window.BENCHMARK_DATA = {
           {
             "name": "JS",
             "value": "109.99",
+            "unit": "kiB"
+          },
+          {
+            "name": "arkit_scenes.rrd",
+            "value": "40.35",
+            "unit": "MiB"
+          },
+          {
+            "name": "detect_and_track_objects.rrd",
+            "value": "55.22",
+            "unit": "MiB"
+          },
+          {
+            "name": "dicom_mri.rrd",
+            "value": "63.36",
+            "unit": "MiB"
+          },
+          {
+            "name": "dna.rrd",
+            "value": "0.62",
+            "unit": "MiB"
+          },
+          {
+            "name": "human_pose_tracking.rrd",
+            "value": "55.58",
+            "unit": "MiB"
+          },
+          {
+            "name": "plots.rrd",
+            "value": "0.19",
+            "unit": "MiB"
+          },
+          {
+            "name": "structure_from_motion.rrd",
+            "value": "6.83",
+            "unit": "MiB"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "cr.rey.clement@gmail.com",
+            "name": "Clement Rey",
+            "username": "teh-cmc"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "4c332626e4850f573de44264ae83908e206cb495",
+          "message": "Rust 1.72 + format `let-else` (!) (#3102)\n\nWoohoo\r\n\r\n### What\r\n\r\n### Checklist\r\n* [x] I have read and agree to [Contributor\r\nGuide](https://github.com/rerun-io/rerun/blob/main/CONTRIBUTING.md) and\r\nthe [Code of\r\nConduct](https://github.com/rerun-io/rerun/blob/main/CODE_OF_CONDUCT.md)\r\n* [x] I've included a screenshot or gif (if applicable)\r\n* [x] I have tested [demo.rerun.io](https://demo.rerun.io/pr/3102) (if\r\napplicable)\r\n\r\n- [PR Build Summary](https://build.rerun.io/pr/3102)\r\n- [Docs\r\npreview](https://rerun.io/preview/c72d547fb67e2a6b678bef8c757c4ea84416d675/docs)\r\n<!--DOCS-PREVIEW-->\r\n- [Examples\r\npreview](https://rerun.io/preview/c72d547fb67e2a6b678bef8c757c4ea84416d675/examples)\r\n<!--EXAMPLES-PREVIEW--><!--EXAMPLES-PREVIEW--><!--EXAMPLES-PREVIEW--><!--EXAMPLES-PREVIEW-->\r\n- [Recent benchmark results](https://ref.rerun.io/dev/bench/)\r\n- [Wasm size tracking](https://ref.rerun.io/dev/sizes/)\r\n\r\n---------\r\n\r\nCo-authored-by: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>\r\nCo-authored-by: Antoine Beyeler <antoine@rerun.io>\r\nCo-authored-by: Jeremy Leibs <jeremy@rerun.io>",
+          "timestamp": "2023-08-25T17:22:42+02:00",
+          "tree_id": "72e719a1f0b2bdc205f3820dfe39727cc61d5874",
+          "url": "https://github.com/rerun-io/rerun/commit/4c332626e4850f573de44264ae83908e206cb495"
+        },
+        "date": 1692978965999,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "Wasm",
+            "value": "13.73",
+            "unit": "MiB"
+          },
+          {
+            "name": "JS",
+            "value": "109.93",
             "unit": "kiB"
           },
           {
