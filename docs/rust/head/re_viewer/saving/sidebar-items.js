@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["MAX_PATH"],"fn":["default_blueprint_path","f","sanitize_app_id","save_database_to_file"]};
+window.SIDEBAR_ITEMS = {"fn":["default_blueprint_path","sanitize_app_id","save_database_to_file"]};

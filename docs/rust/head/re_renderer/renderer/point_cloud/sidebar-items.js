@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["ASSERT","DATA_TEXTURE_SIZE"],"enum":["PointCloudDrawDataError"],"fn":["assert_impl","check","f"],"mod":["gpu_data"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["PointCloudBatch","PointCloudBatchFlags","PointCloudBatchInfo","PointCloudDrawData","PointCloudRenderer","TypeWithoutPadding"],"trait":["__BitFlags"]};
+window.SIDEBAR_ITEMS = {"constant":["DATA_TEXTURE_SIZE"],"enum":["PointCloudDrawDataError"],"mod":["gpu_data"],"struct":["PointCloudBatch","PointCloudBatchFlags","PointCloudBatchInfo","PointCloudDrawData","PointCloudRenderer"]};

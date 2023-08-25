@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["store_one_component"],"static":["ONCE","__SEEN_MESSAGES"]};
+window.SIDEBAR_ITEMS = {"fn":["store_one_component"]};

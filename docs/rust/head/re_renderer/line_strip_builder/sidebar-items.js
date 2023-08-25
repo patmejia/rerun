@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["RESERVE_SIZE"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["LineBatchBuilder","LineStripBuilder","LineStripSeriesBuilder"]};
+window.SIDEBAR_ITEMS = {"struct":["LineBatchBuilder","LineStripBuilder","LineStripSeriesBuilder"]};

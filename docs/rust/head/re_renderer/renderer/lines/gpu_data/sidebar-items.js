@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["BatchUniformBuffer","DrawDataUniformBuffer","LineStripInfo","LineVertex","TypeWithoutPadding"]};
+window.SIDEBAR_ITEMS = {"struct":["BatchUniformBuffer","DrawDataUniformBuffer","LineStripInfo","LineVertex"]};

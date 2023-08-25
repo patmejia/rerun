@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["Rgba32Unmul"]};
+window.SIDEBAR_ITEMS = {"struct":["Rgba32Unmul"]};

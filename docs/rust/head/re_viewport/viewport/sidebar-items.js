@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","space_view_ui"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["TabViewer","TabWidget","Viewport","ViewportState"]};
+window.SIDEBAR_ITEMS = {"fn":["space_view_ui"],"struct":["TabViewer","TabWidget","Viewport","ViewportState"]};

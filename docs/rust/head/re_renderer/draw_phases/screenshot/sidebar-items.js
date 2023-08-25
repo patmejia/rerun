@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["ReadbackBeltMetadata","ScreenshotProcessor"]};
+window.SIDEBAR_ITEMS = {"struct":["ReadbackBeltMetadata","ScreenshotProcessor"]};

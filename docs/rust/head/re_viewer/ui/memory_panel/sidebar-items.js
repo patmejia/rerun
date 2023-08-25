@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","label_row_stats","summarize_callstack","to_line"],"struct":["MemoryPanel"]};
+window.SIDEBAR_ITEMS = {"fn":["summarize_callstack"],"struct":["MemoryPanel"]};

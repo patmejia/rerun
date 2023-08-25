@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["PickingLayerError"],"fn":["assert_impl","check","f"],"struct":["DepthReadbackWorkaround","PickingLayerId","PickingLayerInstanceId","PickingLayerObjectId","PickingLayerProcessor","PickingResult","ReadbackBeltMetadata","TypeWithoutPadding"]};
+window.SIDEBAR_ITEMS = {"enum":["PickingLayerError"],"struct":["DepthReadbackWorkaround","PickingLayerId","PickingLayerInstanceId","PickingLayerObjectId","PickingLayerProcessor","PickingResult","ReadbackBeltMetadata"]};

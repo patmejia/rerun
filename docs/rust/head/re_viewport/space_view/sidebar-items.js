@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["SpaceViewBlueprint"]};
+window.SIDEBAR_ITEMS = {"struct":["SpaceViewBlueprint"]};

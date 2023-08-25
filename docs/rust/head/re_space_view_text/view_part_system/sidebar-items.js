@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"],"struct":["TextEntry","TextSystem"]};
+window.SIDEBAR_ITEMS = {"struct":["TextEntry","TextSystem"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"]};
+window.SIDEBAR_ITEMS = {};

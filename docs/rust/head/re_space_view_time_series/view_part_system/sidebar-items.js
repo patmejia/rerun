@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["DEFAULT_RADIUS"],"enum":["PlotSeriesKind"],"fn":["f"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["PlotPoint","PlotPointAttrs","PlotSeries","TimeSeriesSystem"]};
+window.SIDEBAR_ITEMS = {"enum":["PlotSeriesKind"],"struct":["PlotPoint","PlotPointAttrs","PlotSeries","TimeSeriesSystem"]};

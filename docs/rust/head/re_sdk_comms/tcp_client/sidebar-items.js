@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["ClientError","TcpStreamState"],"static":["CALLSITE","META"],"struct":["TcpClient"]};
+window.SIDEBAR_ITEMS = {"enum":["ClientError","TcpStreamState"],"struct":["TcpClient"]};

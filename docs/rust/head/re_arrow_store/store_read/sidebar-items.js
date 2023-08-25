@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","reshuffle_control_column"],"static":["CALLSITE","META"],"struct":["LatestAtQuery","RangeQuery"]};
+window.SIDEBAR_ITEMS = {"struct":["LatestAtQuery","RangeQuery"]};

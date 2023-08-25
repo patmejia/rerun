@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["FileSinkError"],"static":["CALLSITE","META"],"struct":["FileSink"]};
+window.SIDEBAR_ITEMS = {"enum":["FileSinkError"],"struct":["FileSink"]};

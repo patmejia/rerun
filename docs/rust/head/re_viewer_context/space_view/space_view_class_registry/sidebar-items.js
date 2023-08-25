@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["SpaceViewClassRegistryError"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["SpaceViewClassRegistry","SpaceViewClassRegistryEntry","SpaceViewSystemRegistry"]};
+window.SIDEBAR_ITEMS = {"enum":["SpaceViewClassRegistryError"],"struct":["SpaceViewClassRegistry","SpaceViewClassRegistryEntry","SpaceViewSystemRegistry"]};

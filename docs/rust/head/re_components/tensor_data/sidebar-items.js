@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["TensorDataType","TensorElement"],"fn":["u16_from_f64"],"trait":["TensorDataTypeTrait"]};
+window.SIDEBAR_ITEMS = {"enum":["TensorDataType","TensorElement"],"trait":["TensorDataTypeTrait"]};

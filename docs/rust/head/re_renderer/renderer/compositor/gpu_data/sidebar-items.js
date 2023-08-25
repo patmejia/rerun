@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["CompositeUniformBuffer","TypeWithoutPadding"]};
+window.SIDEBAR_ITEMS = {"struct":["CompositeUniformBuffer"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["__rg_alloc","__rg_alloc_zeroed","__rg_dealloc","__rg_realloc","log_images","main"],"static":["GLOBAL"]};
+window.SIDEBAR_ITEMS = {"fn":["log_images","main"],"static":["GLOBAL"]};

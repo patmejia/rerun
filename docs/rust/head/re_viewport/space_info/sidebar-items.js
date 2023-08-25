@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["SpaceInfoConnection"],"fn":["add_children","f","visit_descendants_with_reachable_transform_recursively"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["SpaceInfo","SpaceInfoCollection"]};
+window.SIDEBAR_ITEMS = {"enum":["SpaceInfoConnection"],"struct":["SpaceInfo","SpaceInfoCollection"]};

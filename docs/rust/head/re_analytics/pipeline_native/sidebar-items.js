@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["_LEN"],"enum":["PipelineError"],"fn":["append_event","flush_events","flush_pending_events","realtime_pipeline","try_send_event","unbind"],"static":["CALLSITE","META","ONCE","__SEEN_MESSAGES"],"struct":["Pipeline"]};
+window.SIDEBAR_ITEMS = {"enum":["PipelineError"],"fn":["append_event","flush_events","flush_pending_events","realtime_pipeline","try_send_event"],"struct":["Pipeline"]};

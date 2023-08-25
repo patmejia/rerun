@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["StoreBundle","StoreHub","StoreHubStats"]};
+window.SIDEBAR_ITEMS = {"struct":["StoreBundle","StoreHub","StoreHubStats"]};

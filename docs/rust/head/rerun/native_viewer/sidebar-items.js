@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["show","spawn"],"static":["CALLSITE","META","ONCE","__SEEN_MESSAGES"],"struct":["NativeViewerSink"]};
+window.SIDEBAR_ITEMS = {"fn":["show","spawn"],"struct":["NativeViewerSink"]};

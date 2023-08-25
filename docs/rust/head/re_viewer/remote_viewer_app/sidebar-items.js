@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["CALLSITE","META"],"struct":["RemoteViewerApp"]};
+window.SIDEBAR_ITEMS = {"struct":["RemoteViewerApp"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","tensor_finite_range_f16","tensor_finite_range_f32","tensor_finite_range_f64","tensor_range_f16","tensor_range_f32","tensor_range_f64","tensor_range_i16","tensor_range_i32","tensor_range_i64","tensor_range_i8","tensor_range_u16","tensor_range_u32","tensor_range_u64","tensor_range_u8"],"macro":["declare_tensor_finite_range_float","declare_tensor_range_float","declare_tensor_range_int"],"struct":["TensorStats"]};
+window.SIDEBAR_ITEMS = {"struct":["TensorStats"]};

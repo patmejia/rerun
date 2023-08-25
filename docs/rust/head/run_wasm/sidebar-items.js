@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["CSS"],"fn":["main"]};
+window.SIDEBAR_ITEMS = {"fn":["main"]};

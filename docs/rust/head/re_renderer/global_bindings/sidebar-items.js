@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["FrameUniformBuffer","GlobalBindings","TypeWithoutPadding"]};
+window.SIDEBAR_ITEMS = {"struct":["FrameUniformBuffer","GlobalBindings"]};

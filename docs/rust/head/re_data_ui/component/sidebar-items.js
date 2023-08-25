@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["EntityComponentWithInstances"]};
+window.SIDEBAR_ITEMS = {"struct":["EntityComponentWithInstances"]};

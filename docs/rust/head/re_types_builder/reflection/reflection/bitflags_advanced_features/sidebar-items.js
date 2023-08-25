@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":["AdvancedFeatures"],"trait":["__BitFlags"]};
+window.SIDEBAR_ITEMS = {"struct":["AdvancedFeatures"]};

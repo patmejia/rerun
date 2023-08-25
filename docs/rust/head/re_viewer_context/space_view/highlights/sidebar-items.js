@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["__stability","__static_ref_initialize"],"static":["LAZY"],"struct":["OptionalSpaceViewEntityHighlight","SPACEVIEW_OUTLINE_MASK_NONE","SpaceViewEntityHighlight","SpaceViewHighlights","SpaceViewOutlineMasks"]};
+window.SIDEBAR_ITEMS = {"struct":["OptionalSpaceViewEntityHighlight","SPACEVIEW_OUTLINE_MASK_NONE","SpaceViewEntityHighlight","SpaceViewHighlights","SpaceViewOutlineMasks"]};

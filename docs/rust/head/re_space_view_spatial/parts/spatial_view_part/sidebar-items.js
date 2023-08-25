@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["SpatialViewPartData"]};
+window.SIDEBAR_ITEMS = {"struct":["SpatialViewPartData"]};

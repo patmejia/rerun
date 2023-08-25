@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["TensorSystem"]};
+window.SIDEBAR_ITEMS = {"struct":["TensorSystem"]};

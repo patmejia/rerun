@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["WATERMARK"],"fn":["f","new_recording_confg","recording_config_entry"],"struct":["AppState"]};
+window.SIDEBAR_ITEMS = {"constant":["WATERMARK"],"fn":["recording_config_entry"],"struct":["AppState"]};

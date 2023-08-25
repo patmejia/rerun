@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","get_documentation","remove_old_files_from_folder","trim_mono_start_whitespace_if_needed","write_file"],"static":["CALLSITE","META"],"trait":["StringExt"]};
+window.SIDEBAR_ITEMS = {"fn":["get_documentation","remove_old_files_from_folder","write_file"],"trait":["StringExt"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["MAX_SELECTION_HISTORY_LENGTH"],"fn":["f"],"struct":["HistoricalSelection","SelectionHistory"]};
+window.SIDEBAR_ITEMS = {"constant":["MAX_SELECTION_HISTORY_LENGTH"],"struct":["HistoricalSelection","SelectionHistory"]};

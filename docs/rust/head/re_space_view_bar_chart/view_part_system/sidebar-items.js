@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["BarChartViewPartSystem"]};
+window.SIDEBAR_ITEMS = {"struct":["BarChartViewPartSystem"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["UiVerbosity"],"fn":["f"],"struct":["ComponentUiRegistry"],"type":["ComponentUiCallback"]};
+window.SIDEBAR_ITEMS = {"enum":["UiVerbosity"],"struct":["ComponentUiRegistry"],"type":["ComponentUiCallback"]};

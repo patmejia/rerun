@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["CLIPBOARD"],"fn":["__getit","__init","init_arboard"],"static":["CALLSITE","META","__KEY"],"struct":["Clipboard"]};
+window.SIDEBAR_ITEMS = {"fn":["init_arboard"],"struct":["Clipboard"]};

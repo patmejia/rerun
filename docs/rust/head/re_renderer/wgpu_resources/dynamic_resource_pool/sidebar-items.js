@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["DynamicResource","DynamicResourcePool","DynamicResourcePoolProtectedState"],"trait":["DynamicResourcesDesc"]};
+window.SIDEBAR_ITEMS = {"struct":["DynamicResource","DynamicResourcePool","DynamicResourcePoolProtectedState"],"trait":["DynamicResourcesDesc"]};

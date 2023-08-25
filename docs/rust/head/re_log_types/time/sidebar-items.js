@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["MAX_MICROSECOND_ACCURACY","MAX_MILLISECOND_ACCURACY"],"struct":["Duration","Time"]};
+window.SIDEBAR_ITEMS = {"struct":["Duration","Time"]};

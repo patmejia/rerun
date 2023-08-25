@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["project_onto"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["Eye","OrbitEye"]};
+window.SIDEBAR_ITEMS = {"fn":["project_onto"],"struct":["Eye","OrbitEye"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["GpuTextureHandle","GpuTextureInternal","GpuTexturePool","TextureDesc"],"type":["GpuTexture"]};
+window.SIDEBAR_ITEMS = {"struct":["GpuTextureHandle","GpuTextureInternal","GpuTexturePool","TextureDesc"],"type":["GpuTexture"]};

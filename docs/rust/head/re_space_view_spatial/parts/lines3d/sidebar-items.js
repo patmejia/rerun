@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["Lines3DPart"]};
+window.SIDEBAR_ITEMS = {"struct":["Lines3DPart"]};

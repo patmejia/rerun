@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["create_bar_chart"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["BarChartSpaceView"]};
+window.SIDEBAR_ITEMS = {"struct":["BarChartSpaceView"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["canonicalize_opt"],"static":["CALLSITE","FILE_SERVER","META"],"struct":["FileServer"]};
+window.SIDEBAR_ITEMS = {"static":["FILE_SERVER"],"struct":["FileServer"]};

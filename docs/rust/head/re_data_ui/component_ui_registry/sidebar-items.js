@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["add","create_component_ui_registry","fallback_component_ui","format_arrow"],"static":["ONCE","__SEEN_MESSAGES"]};
+window.SIDEBAR_ITEMS = {"fn":["create_component_ui_registry","fallback_component_ui","format_arrow"]};

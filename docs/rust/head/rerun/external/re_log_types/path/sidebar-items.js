@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["EntityPathPart","PathParseError"],"fn":["parse_entity_path"],"macro":["entity_path","entity_path_vec"],"struct":["ComponentPath","EntityPath","EntityPathHash","EntityPathImpl"]};
+window.SIDEBAR_ITEMS = {"enum":["EntityPathPart","PathParseError"],"fn":["parse_entity_path"],"struct":["ComponentPath","EntityPath","EntityPathHash","EntityPathImpl"]};

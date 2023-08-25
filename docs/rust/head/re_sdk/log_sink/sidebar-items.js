@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["CALLSITE","META"],"struct":["BufferedSink","MemorySink","MemorySinkStorage","TcpSink"],"trait":["LogSink"]};
+window.SIDEBAR_ITEMS = {"struct":["BufferedSink","MemorySink","MemorySinkStorage","TcpSink"],"trait":["LogSink"]};

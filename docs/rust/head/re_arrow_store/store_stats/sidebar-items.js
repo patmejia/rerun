@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["DataStoreRowStats","DataStoreStats","EntityStats"],"type":["K"]};
+window.SIDEBAR_ITEMS = {"struct":["DataStoreRowStats","DataStoreStats","EntityStats"]};

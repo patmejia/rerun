@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["MsgSenderError"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["MsgSender"]};
+window.SIDEBAR_ITEMS = {"enum":["MsgSenderError"],"struct":["MsgSender"]};

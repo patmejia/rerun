@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["MeshCache"]};
+window.SIDEBAR_ITEMS = {"struct":["MeshCache"]};

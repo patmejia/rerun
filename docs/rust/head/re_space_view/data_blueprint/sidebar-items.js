@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","path_to_group_name","project_tree"],"struct":["DataBlueprintGroup","DataBlueprintTree","DataBlueprints"]};
+window.SIDEBAR_ITEMS = {"fn":["path_to_group_name"],"struct":["DataBlueprintGroup","DataBlueprintTree","DataBlueprints"]};

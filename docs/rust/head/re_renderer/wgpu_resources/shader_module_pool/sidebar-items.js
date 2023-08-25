@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["CALLSITE","META"],"struct":["GpuShaderModuleHandle","GpuShaderModulePool","ShaderModuleDesc"]};
+window.SIDEBAR_ITEMS = {"struct":["GpuShaderModuleHandle","GpuShaderModulePool","ShaderModuleDesc"]};

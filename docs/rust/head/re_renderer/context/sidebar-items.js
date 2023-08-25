@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["ActiveFrameContext","FrameGlobalCommandEncoder","RenderContext","Renderers","SharedRendererData"]};
+window.SIDEBAR_ITEMS = {"struct":["ActiveFrameContext","FrameGlobalCommandEncoder","RenderContext","Renderers","SharedRendererData"]};

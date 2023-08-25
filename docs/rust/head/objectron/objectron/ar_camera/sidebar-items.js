@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["STRUCT_NAME"],"enum":["TrackingState","TrackingStateReason"],"fn":["Inner"],"struct":["EulerAngles","ScalarWrapper"]};
+window.SIDEBAR_ITEMS = {"enum":["TrackingState","TrackingStateReason"],"struct":["EulerAngles"]};

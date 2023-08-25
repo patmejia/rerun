@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"],"struct":["MemoryLimit"]};
+window.SIDEBAR_ITEMS = {"struct":["MemoryLimit"]};

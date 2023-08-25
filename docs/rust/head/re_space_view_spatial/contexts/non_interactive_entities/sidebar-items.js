@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["NonInteractiveEntities"]};
+window.SIDEBAR_ITEMS = {"struct":["NonInteractiveEntities"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["ZoomState2D"],"fn":["egui_rect_to_re_renderer","f","help_text","setup_target_config","show_projections_from_3d_space","view_2d"],"struct":["View2DState"]};
+window.SIDEBAR_ITEMS = {"enum":["ZoomState2D"],"fn":["egui_rect_to_re_renderer","help_text","setup_target_config","show_projections_from_3d_space","view_2d"],"struct":["View2DState"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["STRUCT_NAME"],"fn":["Inner"],"struct":["DirectionVector","ScalarWrapper"]};
+window.SIDEBAR_ITEMS = {"struct":["DirectionVector"]};

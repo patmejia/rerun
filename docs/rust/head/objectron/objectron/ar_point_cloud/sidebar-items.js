@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["STRUCT_NAME"],"fn":["Inner"],"struct":["Point","ScalarWrapper"]};
+window.SIDEBAR_ITEMS = {"struct":["Point"]};

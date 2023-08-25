@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["ClusterCellCache","DataStore","DataStoreConfig","DataTypeRegistry","IndexedBucket","IndexedBucketInner","IndexedTable","MetadataRegistry","PersistentIndexedTable","StoreGeneration"],"type":["InsertIdVec"]};
+window.SIDEBAR_ITEMS = {"struct":["ClusterCellCache","DataStore","DataStoreConfig","DataTypeRegistry","IndexedBucket","IndexedBucketInner","IndexedTable","MetadataRegistry","PersistentIndexedTable","StoreGeneration"],"type":["InsertIdVec"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["InstanceData","TypeWithoutPadding"]};
+window.SIDEBAR_ITEMS = {"struct":["InstanceData"]};

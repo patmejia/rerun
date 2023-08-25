@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["GenericSkybox","GenericSkyboxDrawData"]};
+window.SIDEBAR_ITEMS = {"struct":["GenericSkybox","GenericSkyboxDrawData"]};

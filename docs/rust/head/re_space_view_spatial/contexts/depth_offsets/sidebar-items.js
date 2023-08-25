@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["DrawOrderTarget"],"fn":["f"],"struct":["EntityDepthOffsets"]};
+window.SIDEBAR_ITEMS = {"struct":["EntityDepthOffsets"]};

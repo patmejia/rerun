@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["Item"],"fn":["f","resolve_mono_instance_path","resolve_mono_instance_path_item"],"struct":["ItemCollection"]};
+window.SIDEBAR_ITEMS = {"enum":["Item"],"fn":["resolve_mono_instance_path","resolve_mono_instance_path_item"],"struct":["ItemCollection"]};

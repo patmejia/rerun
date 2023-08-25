@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","load_obj_from_buffer"]};
+window.SIDEBAR_ITEMS = {"fn":["load_obj_from_buffer"]};

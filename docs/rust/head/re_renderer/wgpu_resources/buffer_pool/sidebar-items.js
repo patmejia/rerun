@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["BufferDesc","GpuBufferHandle","GpuBufferPool"],"type":["GpuBuffer"]};
+window.SIDEBAR_ITEMS = {"struct":["BufferDesc","GpuBufferHandle","GpuBufferPool"],"type":["GpuBuffer"]};

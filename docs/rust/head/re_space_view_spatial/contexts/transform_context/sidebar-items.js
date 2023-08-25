@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","pinhole_camera_view_coordinates","transform_at"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["TransformContext","TransformInfo"]};
+window.SIDEBAR_ITEMS = {"fn":["pinhole_camera_view_coordinates","transform_at"],"struct":["TransformContext","TransformInfo"]};

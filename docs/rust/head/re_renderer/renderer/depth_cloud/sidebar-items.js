@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["DepthCloudDrawDataError"],"fn":["f"],"mod":["gpu_data"],"struct":["DepthCloud","DepthCloudDrawData","DepthCloudDrawInstance","DepthCloudRenderer","DepthClouds"]};
+window.SIDEBAR_ITEMS = {"enum":["DepthCloudDrawDataError"],"mod":["gpu_data"],"struct":["DepthCloud","DepthCloudDrawData","DepthCloudDrawInstance","DepthCloudRenderer","DepthClouds"]};

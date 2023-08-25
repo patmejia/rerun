@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["ASSERT"],"enum":["CpuWriteGpuReadError"],"fn":["f"],"static":["CALLSITE","META"],"struct":["Chunk","CpuWriteGpuReadBelt","CpuWriteGpuReadBuffer"]};
+window.SIDEBAR_ITEMS = {"enum":["CpuWriteGpuReadError"],"struct":["Chunk","CpuWriteGpuReadBelt","CpuWriteGpuReadBuffer"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["LOCAL_BLUEPRINT_RECORDING","LOCAL_DATA_RECORDING"],"enum":["RecordingScope"],"fn":["__getit","__init","cleanup_if_forked_child"],"static":["CALLSITE","GLOBAL_BLUEPRINT_RECORDING","GLOBAL_DATA_RECORDING","META","ONCE","__KEY","__SEEN_MESSAGES"]};
+window.SIDEBAR_ITEMS = {"constant":["LOCAL_BLUEPRINT_RECORDING","LOCAL_DATA_RECORDING"],"enum":["RecordingScope"],"fn":["cleanup_if_forked_child"],"static":["GLOBAL_BLUEPRINT_RECORDING","GLOBAL_DATA_RECORDING"]};

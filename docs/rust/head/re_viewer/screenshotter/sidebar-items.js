@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["CALLSITE","META"],"struct":["Screenshotter","ScreenshotterOutput"]};
+window.SIDEBAR_ITEMS = {"struct":["Screenshotter","ScreenshotterOutput"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"],"struct":["MeshPart"]};
+window.SIDEBAR_ITEMS = {"struct":["MeshPart"]};

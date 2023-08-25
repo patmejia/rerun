@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":["LOCAL_VERSION"],"enum":["DecodeError"],"fn":["decode_bytes","f","read_options","warn_on_version_mismatch"],"mod":["stream"],"static":["CALLSITE","META"],"struct":["Decoder"]};
+window.SIDEBAR_ITEMS = {"enum":["DecodeError"],"fn":["decode_bytes","read_options","warn_on_version_mismatch"],"mod":["stream"],"struct":["Decoder"]};

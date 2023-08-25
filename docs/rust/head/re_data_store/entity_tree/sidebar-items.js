@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f","subtree_recursive"],"struct":["ComponentStats","EntityTree","TimeHistogramPerTimeline","TimesPerTimeline"],"type":["TimeHistogram"]};
+window.SIDEBAR_ITEMS = {"struct":["ComponentStats","EntityTree","TimeHistogramPerTimeline","TimesPerTimeline"],"type":["TimeHistogram"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["GarbageCollectionTarget"],"fn":["f"],"static":["CALLSITE","META"]};
+window.SIDEBAR_ITEMS = {"enum":["GarbageCollectionTarget"]};

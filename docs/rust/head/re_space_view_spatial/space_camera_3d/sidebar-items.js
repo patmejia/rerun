@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"],"struct":["SpaceCamera3D"]};
+window.SIDEBAR_ITEMS = {"struct":["SpaceCamera3D"]};

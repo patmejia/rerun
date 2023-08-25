@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["CALLSITE","META"],"struct":["DecodedTensorResult","TensorDecodeCache"]};
+window.SIDEBAR_ITEMS = {"struct":["DecodedTensorResult","TensorDecodeCache"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"macro":["create_visitor"]};
+window.SIDEBAR_ITEMS = {"macro":["create_visitor"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["bytes_resident","sub"],"struct":["MemoryUse"]};
+window.SIDEBAR_ITEMS = {"fn":["bytes_resident"],"struct":["MemoryUse"]};

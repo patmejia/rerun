@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["Color"]};
+window.SIDEBAR_ITEMS = {"struct":["Color"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"struct":["LoadedMesh"]};
+window.SIDEBAR_ITEMS = {"struct":["LoadedMesh"]};

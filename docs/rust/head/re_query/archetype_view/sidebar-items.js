@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["f"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["ArchetypeView","ComponentJoinedIterator","ComponentWithInstances"]};
+window.SIDEBAR_ITEMS = {"struct":["ArchetypeView","ComponentJoinedIterator","ComponentWithInstances"]};

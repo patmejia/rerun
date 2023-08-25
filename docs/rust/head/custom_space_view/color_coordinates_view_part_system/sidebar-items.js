@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"static":["COMPONENTS"],"struct":["ColorArchetype","ColorWithInstanceKey","InstanceColorSystem"]};
+window.SIDEBAR_ITEMS = {"struct":["ColorArchetype","ColorWithInstanceKey","InstanceColorSystem"]};
