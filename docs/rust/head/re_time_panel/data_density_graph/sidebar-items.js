@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DENSITIES_PER_UI_PIXEL","MARGIN_X","MIN_RADIUS"],"fn":["data_density_graph_ui","f","graph_color","kernel","make_brighter","show_row_ids_tooltip","smooth"],"struct":["DataDensityGraphPainter","DensityGraph"]};

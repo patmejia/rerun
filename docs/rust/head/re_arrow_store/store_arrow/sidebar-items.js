@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","serialize","serialize_control_columns","serialize_data_columns"]};

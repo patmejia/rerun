@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SystemCommand"],"fn":["command_channel"],"struct":["CommandReceiver","CommandSender","FileContents"],"trait":["SystemCommandSender"]};

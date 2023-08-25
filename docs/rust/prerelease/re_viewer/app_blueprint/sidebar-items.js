@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","load_panel_state"],"struct":["AppBlueprint"]};

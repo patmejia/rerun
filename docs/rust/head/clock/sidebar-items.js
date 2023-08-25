@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["LENGTH_H","LENGTH_M","LENGTH_S","WIDTH_H","WIDTH_M","WIDTH_S"],"fn":["color","log_hand","main","pos","run"],"struct":["Args"]};

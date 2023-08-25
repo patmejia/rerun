@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["log_filter","setup_native_logging"]};

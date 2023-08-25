@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MISSING_ROW_ID"],"fn":["__stability","__static_ref_initialize","f"],"static":["LAZY"],"struct":["AnnotationMap","Annotations","CachedClassDescription","MISSING_ANNOTATIONS","ResolvedAnnotationInfo","ResolvedClassDescription"]};

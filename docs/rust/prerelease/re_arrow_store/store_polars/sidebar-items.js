@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ASCENDING","DESCENDING","TIMELESS_COL"],"fn":["column_as_series","f","insert_ids_as_series","new_infallible_series","sort_df_columns"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RangeError"],"fn":["depth_tensor_to_gpu","f","get_or_create_texture","new_renderer_callback","render_image","tensor_data_range_heuristic","tensor_decode_srgb_gamma_heuristic","tensor_to_gpu","try_get_or_create_texture","viewport_resolution_in_pixels"],"mod":["re_renderer_callback","tensor_to_gpu"]};

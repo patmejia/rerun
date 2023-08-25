@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"re_log_types":[["impl&lt;'de&gt; <a class=\"trait\" href=\"https://docs.rs/serde/1.0.163/serde/de/trait.Visitor.html\" title=\"trait serde::de::Visitor\">Visitor</a>&lt;'de&gt; for <a class=\"struct\" href=\"re_log_types/arrow_msg/struct.FieldVisitor.html\" title=\"struct re_log_types::arrow_msg::FieldVisitor\">FieldVisitor</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

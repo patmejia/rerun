@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ColorMapper","RectangleError","TextureFilterMag","TextureFilterMin"],"fn":["f"],"mod":["gpu_data"],"struct":["ColormappedTexture","RectangleDrawData","RectangleInstance","RectangleOptions","RectangleRenderer","TexturedRect"]};

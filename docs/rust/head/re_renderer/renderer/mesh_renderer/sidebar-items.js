@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f"],"mod":["gpu_data"],"struct":["MeshBatch","MeshDrawData","MeshInstance","MeshRenderer"]};

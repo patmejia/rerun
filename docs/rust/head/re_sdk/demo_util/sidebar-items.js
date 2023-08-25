@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["B2","B4","G2","G4","R2","R4"],"fn":["bounce_lerp","color_spiral","colormap_turbo_srgb","grid","lerp","linspace"]};

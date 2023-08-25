@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STRUCT_NAME"],"enum":["Alignment","PlaneClassification","PlaneClassificationStatus"],"fn":["Inner"],"struct":["PlaneVector","ScalarWrapper"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_SLEEP_MS","_LEN"],"enum":["InterruptMsg","MsgMsg","PacketMsg"],"fn":["msg_drop","msg_encode","send_until_success","tcp_sender","unbind"],"static":["CALLSITE","META","ONCE","__SEEN_MESSAGES"],"struct":["Client","FlushedMsg","QuitMsg"]};

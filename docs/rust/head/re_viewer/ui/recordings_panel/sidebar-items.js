@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DESCRIPTION"],"fn":["add_button_ui","recording_list_ui","recording_ui","recordings_panel_ui"],"static":["TIME_FORMAT_DESCRIPTION"]};

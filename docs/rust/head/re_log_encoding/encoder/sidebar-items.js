@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["RERUN_VERSION"],"enum":["EncodeError"],"fn":["encode","encode_owned","encode_to_bytes"],"struct":["Encoder"]};

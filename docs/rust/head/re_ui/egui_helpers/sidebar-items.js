@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_CLICK_DURATION"],"fn":["is_anything_being_dragged"]};

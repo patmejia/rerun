@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DebugOverlayMode"],"fn":["assert_impl","check"],"struct":["DebugOverlayUniformBuffer","TypeWithoutPadding"]};

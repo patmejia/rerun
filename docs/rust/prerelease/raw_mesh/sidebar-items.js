@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DATASET_DIR"],"enum":["Scene"],"fn":["__rg_alloc","__rg_alloc_zeroed","__rg_dealloc","__rg_realloc","load_gltf","log_coordinate_space","log_node","main","node_name","node_primitives","run"],"static":["CALLSITE","GLOBAL","META"],"struct":["Args","GltfNode","GltfPrimitive","GltfTransform"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["process_archetype_views","process_entity_views"],"static":["ONCE","__SEEN_MESSAGES"]};

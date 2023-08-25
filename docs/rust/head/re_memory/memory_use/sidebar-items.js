@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["bytes_resident","sub"],"struct":["MemoryUse"]};

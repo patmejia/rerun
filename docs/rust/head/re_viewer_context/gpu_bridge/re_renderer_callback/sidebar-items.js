@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["new_renderer_callback"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["ReRendererCallback","ViewBuilderHandle"],"type":["ViewBuilderMap"]};

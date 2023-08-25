@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["assert_impl","check"],"struct":["BatchUniformBuffer","DrawDataUniformBuffer","PositionRadius","TypeWithoutPadding"]};

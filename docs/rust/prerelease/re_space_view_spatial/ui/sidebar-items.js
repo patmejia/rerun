@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["AUTO_LINE_RADIUS","AUTO_POINT_RADIUS"],"enum":["AutoSizeUnit"],"fn":["create_labels","f","outline_config","picking","screenshot_context_menu","size_ui"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["SpatialSpaceViewState"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["f","load_obj_from_buffer"]};

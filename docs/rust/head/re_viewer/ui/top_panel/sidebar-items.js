@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CODE"],"fn":["click_to_copy","f","frame_time_label_ui","input_latency_label_ui","memory_use_label_ui","top_bar_ui","top_panel","website_link_ui"]};

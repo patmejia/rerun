@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ImageBucketing"],"fn":["all_possible_space_views","contains_any_image","default_created_space_views","default_queried_entities","f","is_entity_processed_by_class","is_entity_processed_by_part_collection","is_interesting_space_view_at_root","is_interesting_space_view_not_at_root","is_spatial_class","is_tensor_class"]};

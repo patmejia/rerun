@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CLIPBOARD"],"fn":["__getit","__init","init_arboard"],"static":["CALLSITE","META","__KEY"],"struct":["Clipboard"]};

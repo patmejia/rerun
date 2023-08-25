@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FromFileError"],"fn":["data_cell_from_file_path","data_cell_from_mesh_file_path"]};

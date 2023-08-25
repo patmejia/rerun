@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["annotation_context","arrows3d","disconnected_space","line_strips2d","line_strips3d","points2d","points3d","transform3d"],"struct":["AnnotationContext","Arrows3D","DisconnectedSpace","LineStrips2D","LineStrips3D","Points2D","Points3D","Transform3D"]};

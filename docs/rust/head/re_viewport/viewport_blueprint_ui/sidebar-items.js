@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TreeAction"],"fn":["blueprint_row_with_buttons","dim_color","f","focus_tab","visibility_button_ui"],"static":["ONCE","__SEEN_MESSAGES"]};

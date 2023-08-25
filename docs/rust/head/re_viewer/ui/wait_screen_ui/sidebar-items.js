@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_COLUMN_WIDTH","MIN_COLUMN_WIDTH","PYTHON_QUICKSTART","RUST_QUICKSTART","SPACE_VIEWS_HELP"],"fn":["button_centered_label","image_banner","large_text_button","loading_ui","onboarding_content_ui","set_large_button_style","status_strings","url_large_text_button","welcome_ui","welcome_ui_impl"],"struct":["StatusStrings"]};

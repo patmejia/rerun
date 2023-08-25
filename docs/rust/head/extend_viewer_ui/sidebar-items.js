@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["__rg_alloc","__rg_alloc_zeroed","__rg_dealloc","__rg_realloc","component_ui","entity_ui","format_arrow","main","store_db_ui"],"static":["GLOBAL"],"struct":["MyApp"]};

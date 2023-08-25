@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STRUCT_NAME"],"enum":["MeshClassification"],"fn":["Inner"],"struct":["Face","ScalarWrapper","Vertex"]};

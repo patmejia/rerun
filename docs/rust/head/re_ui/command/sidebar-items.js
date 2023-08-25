@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["UICommand"],"fn":["cmd","cmd_alt","ctrl_shift","key"],"struct":["UICommandIter"],"trait":["UICommandSender"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Angle","Rotation3D","Scale3D","Transform3D"],"struct":["AnnotationInfo","ClassDescription","ClassDescriptionMapElem","ClassId","Color","KeypointId","KeypointPair","Label","Mat3x3","Mat4x4","Quaternion","RotationAxisAngle","TranslationAndMat3x3","TranslationRotationScale3D","Vec2D","Vec3D","Vec4D"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["build_frame_nr","build_log_time","build_some_colors","build_some_instances","build_some_instances_from","build_some_labels","build_some_point2d","build_some_rects","build_some_vec3d","data_table_example"]};

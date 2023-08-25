@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["MutableScalarPlotPropsArray","Scalar","ScalarPlotProps","ScalarPlotPropsArray","ScalarPlotPropsArrayIterator"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["total_ram_in_bytes"],"static":["CALLSITE","META"],"struct":["RamLimitWarner"]};

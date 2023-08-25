@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["GAP_EXPANSION_FRACTION","MAX_GAP"],"fn":["f","gap_width"],"struct":["Segment","TimeRangesUi"]};

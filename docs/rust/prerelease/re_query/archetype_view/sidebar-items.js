@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":["ONCE","__SEEN_MESSAGES"],"struct":["ArchetypeView","ComponentJoinedIterator","ComponentWithInstances"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DISPLAY_PRECISION"],"struct":["LegacyVec2D","LegacyVec3D","LegacyVec4D"]};

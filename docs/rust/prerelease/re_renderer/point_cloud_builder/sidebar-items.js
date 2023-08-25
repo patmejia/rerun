@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["RESERVE_SIZE"],"fn":["f"],"static":["ONCE","__SEEN_MESSAGES"],"struct":["PointCloudBatchBuilder","PointCloudBuilder"]};
